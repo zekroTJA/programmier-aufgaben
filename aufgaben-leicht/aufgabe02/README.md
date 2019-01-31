@@ -1,6 +1,8 @@
+<div align="right"><a href="README_EN.md"><img src="../../.assets/img/lang_en.png" height="32"/></a></div>
+
 # Aufgabe 02
-> Contributors: RMC#0001 
-> Letzte Aktualisierung:  2019/01/26
+> Contributors: RMC#0001, zekro#9131  
+> last edit:  2019/01/31
 
 ---
 

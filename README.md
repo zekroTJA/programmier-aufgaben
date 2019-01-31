@@ -5,7 +5,7 @@
 Hier findet ihr verschieden kleine Programmieraufgaben!  
 Alles hier gerade noch WIP, bald mehr.  
 
-**Du möchtest selbst eigene Aufgaben oder Musterlösungen beitragen?**
+**Du möchtest selbst eigene Aufgaben oder Musterlösungen beitragen?**  
 Dann erstelle einfach ein [Issue](https://github.com/dev-schueppchen/programmier-aufgaben/issues/new) oder eine [Pull Request](https://github.com/dev-schueppchen/programmier-aufgaben/pulls).
 
 
