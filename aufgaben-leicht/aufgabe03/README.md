@@ -1,6 +1,8 @@
+<div align="right"><a href="README_EN.md"><img src="../../.assets/img/lang_en.png" height="32"/></a></div>
+
 # Aufgabe 03
-> Contributors: Ron31#2338  
-> Letzte Aktualisierung:  2019/01/28
+> Contributors: Ron31#2338, zekro#9131  
+> Letzte Aktualisierung:  2019/02/01
 ---
 
 ## Trivia Quiz
@@ -11,8 +13,8 @@ Für jede richtige Antwort gibt es einen Punkt.
 ### Zusatzaufgaben:
 
 - Nach x Fehlversuchen bekommt man Antwortmöglichkeiten vorgegeben.
-- Die Fragen werden aus einer Datei geladen, jeder kann neue hinzufügen.
-- Gibt man sofort die richtige Antwort, bekommt man 3 Punkte. Bei falscher Antwort hat man noch x Versuche, bekommt dafür aber weniger Punkte.
+- Die Fragen und Antworten werden aus einer Datei geladen sodas jeder neue Fragen und Antworten hinzufügen.
+- Für jeden Fehlversuch bekommt man weniger Punkte.
 
 ---
 

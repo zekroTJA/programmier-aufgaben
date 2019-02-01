@@ -1,6 +1,6 @@
-# Aufgabe 02
+# Exercise 02
 > Contributors: RMC#0001, zekro#9131  
-> last edit:  2019/01/31
+> Last edit:  2019/01/31
 
 ---
 
